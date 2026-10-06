@@ -883,6 +883,7 @@ PRODUCT_PACKAGES += \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
+    libOpenCL_adreno \
     libPlatformValidatorShared \
     libQSEEComAPI \
     libQTEEConnector_listener \
@@ -903,6 +904,7 @@ PRODUCT_PACKAGES += \
     libTrustedUITZ \
     libTrustedUIVM \
     libadm \
+    libadreno_compiler_cl \
     libadsp_default_listener \
     libadsprpc \
     libagm \
